@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>DYSDK</key>
-		<data>
-		lGfXxt51GYCATZ/F8UnDVJ853UY=
-		</data>
 		<key>FacebookSDKStrings.bundle/Resources/af.lproj/FacebookSDK.strings</key>
 		<dict>
 			<key>hash</key>
@@ -406,7 +402,7 @@
 		</dict>
 		<key>GTMOAuth2ViewTouch.nib</key>
 		<data>
-		ywu8hzkIG2Mtg1OQxSruRhLjd9k=
+		I3MmZHWlRL/lGzPB2ARFswYGqBU=
 		</data>
 		<key>GoogleSignIn.bundle/Info.plist</key>
 		<data>
@@ -776,6 +772,10 @@
 		<data>
 		hu2MKgGK+0K/HdrjzbK5gtOSs00=
 		</data>
+		<key>Info.plist</key>
+		<data>
+		niOpadpzXapT1g3rSdENm5IJ/Vo=
+		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		TuLF7U7rZCj15I9kR1PVElQIwUY=
@@ -783,17 +783,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>DYSDK</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lGfXxt51GYCATZ/F8UnDVJ853UY=
-			</data>
-			<key>hash2</key>
-			<data>
-			vLA/VqiqaYb+e1H21NZxmmHAGpcRgobI/hBfLei+O90=
-			</data>
-		</dict>
 		<key>FacebookSDKStrings.bundle/Resources/af.lproj/FacebookSDK.strings</key>
 		<dict>
 			<key>hash</key>
@@ -1370,11 +1359,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ywu8hzkIG2Mtg1OQxSruRhLjd9k=
+			I3MmZHWlRL/lGzPB2ARFswYGqBU=
 			</data>
 			<key>hash2</key>
 			<data>
-			VCkrTnTstBzdJbVeEw8K5hqCeLs8bGRO6EZU5cSVS6Q=
+			FRhEXCMSoNBShQ/2CvgS5WAcSWta3aa5bpozZ1g8XfE=
 			</data>
 		</dict>
 		<key>GoogleSignIn.bundle/Info.plist</key>
